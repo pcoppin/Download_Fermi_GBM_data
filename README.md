@@ -23,6 +23,7 @@ The output of this script is a text file _Detectors_to_use.txt_ containing per l
 - the name of the burst
 - the name of one of the selected subdetectors
 
+Dependencies: _astropy_ needs to be installed through pip to enable the script
 
 ### Step 3:
 Download the CTIME data from the selected subdetectors; by running:
