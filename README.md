@@ -26,7 +26,7 @@ The output of this script is a text file _Detectors_to_use.txt_ containing per l
 Dependencies: _astropy_ needs to be installed through pip to enable the script
 
 ### Step 3:
-Download the CTIME data from the selected subdetectors; by running:
+Download the TTE data from the selected subdetectors; by running:
 `Download_tte.py`
 
 Again, burst data will be stored by default in the folder _Bursts_;<br />
